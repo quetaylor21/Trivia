@@ -1,3 +1,5 @@
+This was from a 2 hour assessment that I was given... It's a rushed project
+
 ## Getting Started
 I started this Application with "Create React App" for the boilerplate. 
 
